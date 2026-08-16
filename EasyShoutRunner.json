@@ -1,0 +1,11 @@
+{
+  "Author": "AerisLifestream",
+  "Name": "EasyShoutRunner",
+  "InternalName": "EasyShoutRunner",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Automatically travels world to world via Lifestream and shouts a message at each capital.",
+  "Punchline": "Travel every world, shout your message, repeat.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [ "travel", "automation" ]
+}
